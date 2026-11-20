@@ -156,7 +156,10 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ### Output
 
-<img width="1920" height="1080" alt="dlc-3" src="https://github.com/user-attachments/assets/b538ee9a-7c87-4a66-8ab7-17266ee434a0" />
+<img width="1920" height="1080" alt="dlcd exp-3 a" src="https://github.com/user-attachments/assets/0c112b42-1269-4364-a575-647acb69fa8b" />
+<img width="1917" height="1027" alt="dlcd exp-3 b" src="https://github.com/user-attachments/assets/322599ec-35b3-4230-9e92-d4569814f729" />
+
+
 
 
 
