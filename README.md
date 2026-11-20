@@ -36,6 +36,7 @@ module half_subtractor (
 	output wire Borrow
 );
 
+
 assign Diff =A^B; //XOR 
 assign Borrow = (~A) & B; // A'. B
 
