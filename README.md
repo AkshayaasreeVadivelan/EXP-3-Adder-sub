@@ -25,7 +25,9 @@ module half_adder (
 	output wire Sum, 
 	output wire Carry
 );
+
 assign Sum =A^B; //XOR 
+
 assign Carry = A & B; // AND
 endmodule
 
